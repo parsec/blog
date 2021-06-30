@@ -23,7 +23,7 @@ paginate     = 10
   enableSharingButtons = false
 
   # Metadata mostly used in document's head
-  description = "My new homepage or blog"
+  description = "My Blog!"
   keywords = "homepage, blog"
   images = [""]
 
@@ -70,6 +70,7 @@ paginate     = 10
     # alt = "Your example logo alt text"
 
   # And you can even create generic menu
+[menu]  
   [[menu.main]]
     identifier = "about"
     name       = "About"
@@ -79,3 +80,9 @@ paginate     = 10
     identifier = "blog"
     name       = "Blog"
     url        = "/posts"
+
+[languages]
+  [languages.en]
+    writtenBy = "Written by"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"

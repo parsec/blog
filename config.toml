@@ -1,4 +1,4 @@
-baseurl      = "http://example.com/"
+baseurl      = "https://blog.gitgud.sh/"
 title        = "Git Gud"
 languageCode = "en-us"
 theme        = "hello-friend-ng"

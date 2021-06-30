@@ -60,6 +60,8 @@ paginate     = 10
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
+    writtenBy = "Written by"
+    readMore = "Read more"
 
     [languages.en.params.logo]
       logoText = "blog.gitgud.sh"
@@ -80,9 +82,3 @@ paginate     = 10
     identifier = "blog"
     name       = "Blog"
     url        = "/posts"
-
-[languages]
-  [languages.en]
-    writtenBy = "Written by"
-    readMore = "Read more"
-    readOtherPosts = "Read other posts"

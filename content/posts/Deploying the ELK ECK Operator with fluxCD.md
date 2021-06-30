@@ -1,6 +1,5 @@
 ---
-author:
-  name: "Seth Beckman"
+author: "Seth Beckman"
 date: 2021-05-28
 linktitle: Deploying the ELK ECK Operator with fluxCD
 type:

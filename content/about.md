@@ -1,6 +1,6 @@
 ---
 author:
-  name: "Seth Beckman"
+  name: "parsec"
 date: 2021-06-30
 linktitle: Hello, world!
 type:

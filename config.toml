@@ -3,6 +3,35 @@ title        = "Git Gud"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
+rssLimit     = 10
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." 
+
+PygmentsCodeFences = true
+PygmentsStyle = "monokai"
+
+
+archetypeDir = "archetypes"
+contentDir   = "content"
+dataDir      = "data"
+layoutDir    = "layouts"
+publishDir   = "public"
+
+buildDrafts  = false
+buildFuture  = false
+buildExpired = false
+canonifyURLs = true
+
+enableRobotsTXT = true
+enableGitInfo   = true
+enableEmoji     = true
+enableMissingTranslationPlaceholders = false
+disableRSS     = false
+disableSitemap = false
+disable404     = false
+disableHugoGeneratorInject = false
+
+[permalinks]
+  posts = "/posts/:year/:month/:title/"
 
 [author]
   name = "parsec"
@@ -18,6 +47,15 @@ paginate     = 10
   # Subtitle for home
   homeSubtitle = "A blog about my journey through tech, and the things I learn along the way."
 
+
+  # Enable theme toggle
+  # 
+  # This options enables the theme toggle for the theme. 
+  # Per default, this option is off. 
+  # The theme is respecting the prefers-color-scheme of the operating systeme. 
+  # With this option on, the page user is able to set the scheme he wants. 
+  enableThemeToggle = false
+  
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
 
@@ -66,7 +104,8 @@ paginate     = 10
     readMore = "Read more"
 
     [languages.en.params.logo]
-      logoText = "blog.gitgud.sh"
+      logoMark     = ">"
+      logoText     = "$ cd /blog.gitgud.sh/"
       logoHomeLink = "/"
     # or
     #

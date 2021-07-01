@@ -47,6 +47,7 @@ disableHugoGeneratorInject = false
   # Subtitle for home
   homeSubtitle = "A blog about my journey through tech, and the things I learn along the way."
 
+  gitUrl = "https://github.com/parsec/blog"
 
   # Enable theme toggle
   # 

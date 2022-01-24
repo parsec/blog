@@ -1,6 +1,6 @@
 ---
 author: "parsec"
-date: 2021-05-28
+date: 2022-01-24
 linktitle: Building a Kubernetes Cluster with k8s@Home - Pt. 0
 type:
   - post

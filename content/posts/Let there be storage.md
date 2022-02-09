@@ -1,6 +1,6 @@
 ---
 author: "parsec"
-date: 2022-01-24
+date: 2022-02-08
 linktitle: Let there be storage! - Pt. 02
 type:
  - post

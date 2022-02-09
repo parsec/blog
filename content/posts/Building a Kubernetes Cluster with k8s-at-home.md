@@ -1,11 +1,11 @@
 ---
 author: "parsec"
 date: 2022-01-24
-linktitle: Building a Kubernetes Cluster with k8s@Home - Pt. 0
+linktitle: Building a Kubernetes Cluster with k8s@Home - Pt. 00
 type:
   - post
   - posts
-title: Building a Kubernetes Cluster with k8s@Home - Pt. 0
+title: Building a Kubernetes Cluster with k8s@Home - Pt. 00
 subtitle: Making my Home Cluster Repo Public!
 weight: 10
 series:

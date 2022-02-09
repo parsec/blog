@@ -1,11 +1,11 @@
 ---
 author: "parsec"
 date: 2022-02-08
-linktitle: Let there be storage! - Pt. 02
+linktitle: Let there be storage! - Pt. 01
 type:
  - post
  - posts
-title: Let there be storage! - Pt. 02
+title: Let there be storage! - Pt. 01
 subtitle: Deploying nfs-subdir-external-provisioner
 weight: 10
 series:

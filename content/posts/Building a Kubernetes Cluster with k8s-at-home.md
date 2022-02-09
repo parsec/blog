@@ -9,7 +9,7 @@ title: Building a Kubernetes Cluster with k8s@Home - Pt. 0
 subtitle: Making my Home Cluster Repo Public!
 weight: 10
 series:
-  - Kubernetes, fluxCD, and GitOps, Oh My!
+  - "The Great Kubernetes Migration!"
 tags:
   - k3s
   - kubernetes

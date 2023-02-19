@@ -19,7 +19,7 @@ tags:
 
 There are a lot of options when it comes to managing the state of your Kubernetes cluster: ArgoCD, FluxCD, Helm, Terraform... the list goes on, and you'd be hard-pressed to pick one over the other. After all, they all do things in their own special way.
 
-We're looking at a newcomer in the ring now, [Keel](https://keel.sh/).
+We're looking at a project I haven't heard of before, [Keel](https://keel.sh/).
 
 ## What's the deal with Keel?
 

@@ -7,7 +7,6 @@ type:
   - posts
 title: "Keel: What it is, and what it isn't"
 weight: 10
-draft: true
 tags:
   - k3s
   - kubernetes

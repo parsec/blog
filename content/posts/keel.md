@@ -1,6 +1,6 @@
 ---
 author: "parsec"
-date: 2023-02-16
+date: 2023-02-19
 linktitle: "Keel: What it is, and what it isn't"
 type:
   - post

@@ -97,4 +97,4 @@ But the reality here is that until the maintainers (or some new maintainers) pic
 
 I sincerely hope someone else will carry the torch, or the author will have more time to dedicate in the future. Unfortunately my brain isn't wrinkly enough yet to be able to take on a challenge like this. But I can write some random words on my blog at the end of the universe, because why not?
 
-The end…?
+The End…?

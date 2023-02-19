@@ -58,7 +58,7 @@ keel-fd9fc9f66-xzvxx   1/1     Running   0          14m
 
 Cool! We've got a Keel pod! Now let's do some more setup...
 
-## The Iceberg
+## Tip of the Iceberg
 
 Let's check out what the pod is up to.
 
@@ -77,7 +77,7 @@ After [some research](https://github.com/keel-hq/keel/issues/698), I discovered 
 
 This... is really disappointing. So my options at this point to play with Keel are to downgrade my cluster, or hope the maintainers update it sometime soon...
 
-## The Bottom of the Iceberg
+## The Rest of the Iceberg
 
 Oh. It... would appear the maintainers have [not had time](https://github.com/keel-hq/keel/issues/677) to maintain the app, likely for some time. The last major update was back in 2020, and the app is no longer being actively maintained. The only update since 2020 on the GitHub repo was a chart version bump ~4mo ago.
 

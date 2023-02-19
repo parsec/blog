@@ -96,3 +96,5 @@ I could have spent time getting Keel working. Downgraded my version of Kubernete
 But the reality here is that until the maintainers (or some new maintainers) pick up the project, it's going to quickly become irrelevant as Kubernetes continues to be upgraded and maintained. This is really unfortunate, because I think Keel has a lot of potential. But it's currently too behind the curve to be useful for me. Particularly when I have FluxCD, which solves the "GitOps cluster management" problem for me much more elegantly. For now, I'll stick with my `f***ctl` commands (telling how long ago this was last updated... Flux v2 did away with `fluxctl` and introduced just `flux` as the CLI).
 
 I sincerely hope someone else will carry the torch, or the author will have more time to dedicate in the future. Unfortunately my brain isn't wrinkly enough yet to be able to take on a challenge like this. But I can write some random words on my blog at the end of the universe, because why not?
+
+The end…?
